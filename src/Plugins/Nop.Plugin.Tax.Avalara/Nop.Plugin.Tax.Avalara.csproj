@@ -80,7 +80,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Avalara.AvaTax" Version="20.9.0" />
+    <PackageReference Include="Avalara.AvaTax" Version="21.3.0" />
   </ItemGroup>
 
   <ItemGroup>
